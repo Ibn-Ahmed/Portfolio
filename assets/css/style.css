@@ -14,7 +14,7 @@ body {
   color: #fff;
   position: relative;
   /* background: transparent; */
-  background:#040404 url('../img/bg.jpg');
+  background:#040404 ;
   background-size: cover;
 
 }
